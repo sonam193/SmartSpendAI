@@ -1,0 +1,8 @@
+# SmartSpend AI - Dependencies
+# Stage 1: Student Personal Finance Manager
+# Stage 2: Machine Learning Expense Prediction
+
+streamlit>=1.30.0
+pandas>=2.0.0
+plotly>=5.18.0
+scikit-learn>=1.3.0
